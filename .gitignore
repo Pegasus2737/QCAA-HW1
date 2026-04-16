@@ -1,0 +1,22 @@
+﻿# Environments
+.venv*
+__pycache__/
+*.py[cod]
+*.class
+
+# Temporary Folders
+.tmp*
+torchinductor_User/
+# Weights & Biases (Logging & Caches)
+wandb/
+# Datasets (Do not commit large data like CIFAR-10)
+data/
+data_problem3/
+# Logs
+*.log
+# PyTorch / Models
+*.pt
+*.pth
+*.ckpt
+# Allow specific model archives for submission
+!best_models.zip

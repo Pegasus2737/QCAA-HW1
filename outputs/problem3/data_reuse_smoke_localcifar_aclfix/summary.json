@@ -1,0 +1,10 @@
+{
+  "mlp": {
+    "best_test_acc": 0.09375,
+    "final_test_acc": 0.09375,
+    "final_test_loss": 2.3130736351013184,
+    "trainable_params": 73418,
+    "training_time_seconds": 2.8493894999992335,
+    "device": "cuda"
+  }
+}

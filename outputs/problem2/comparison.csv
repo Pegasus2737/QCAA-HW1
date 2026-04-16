@@ -1,0 +1,7 @@
+dataset,method,accuracy,complexity,seconds
+circle,explicit,1.000000,31,7.8076
+circle,kernel,1.000000,28000,42.6676
+circle,reupload,1.000000,31,10.4338
+moons,explicit,1.000000,31,8.6691
+moons,kernel,0.966667,28000,41.8399
+moons,reupload,1.000000,31,11.8395

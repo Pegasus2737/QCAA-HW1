@@ -1,0 +1,44 @@
+[
+  {
+    "dataset": "circle",
+    "method": "explicit",
+    "accuracy": 1.0,
+    "complexity": 31,
+    "seconds": 7.807647799985716
+  },
+  {
+    "dataset": "circle",
+    "method": "kernel",
+    "accuracy": 1.0,
+    "complexity": 28000,
+    "seconds": 42.66763110001921
+  },
+  {
+    "dataset": "circle",
+    "method": "reupload",
+    "accuracy": 1.0,
+    "complexity": 31,
+    "seconds": 10.433812000002945
+  },
+  {
+    "dataset": "moons",
+    "method": "explicit",
+    "accuracy": 1.0,
+    "complexity": 31,
+    "seconds": 8.669118699996034
+  },
+  {
+    "dataset": "moons",
+    "method": "kernel",
+    "accuracy": 0.9666666666666667,
+    "complexity": 28000,
+    "seconds": 41.83988089999184
+  },
+  {
+    "dataset": "moons",
+    "method": "reupload",
+    "accuracy": 1.0,
+    "complexity": 31,
+    "seconds": 11.839456700021401
+  }
+]

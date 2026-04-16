@@ -1,0 +1,17 @@
+{
+  "config": {
+    "name": "grid_q2_l6_rx_ry_lr0p03",
+    "n_qubits": 2,
+    "n_layers": 6,
+    "encoding": "rx_ry",
+    "group": "grid",
+    "lr": 0.03,
+    "epochs": 80,
+    "batch_size": 32,
+    "eval_every": 5
+  },
+  "train_mse": 0.00017262304027099162,
+  "test_mse": 0.5063833594322205,
+  "params": 41,
+  "seconds": 23.777018900000257
+}

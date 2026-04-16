@@ -1,0 +1,2 @@
+name,group,n_qubits,n_layers,encoding,train_mse,test_mse,params,seconds
+grid_q4_l2_rx_ry_lr0p03,grid,4,2,rx_ry,0.10289706289768219,0.17310649156570435,31,21.24336239999684

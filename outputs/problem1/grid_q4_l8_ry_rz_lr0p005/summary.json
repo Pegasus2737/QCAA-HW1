@@ -1,0 +1,17 @@
+{
+  "config": {
+    "name": "grid_q4_l8_ry_rz_lr0p005",
+    "n_qubits": 4,
+    "n_layers": 8,
+    "encoding": "ry_rz",
+    "group": "grid",
+    "lr": 0.005,
+    "epochs": 40,
+    "batch_size": 32,
+    "eval_every": 5
+  },
+  "train_mse": 5.13049126311671e-05,
+  "test_mse": 0.08733715116977692,
+  "params": 103,
+  "seconds": 137.0878997999971
+}

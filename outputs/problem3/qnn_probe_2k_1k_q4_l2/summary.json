@@ -1,0 +1,10 @@
+{
+  "qnn": {
+    "best_test_acc": 0.2,
+    "final_test_acc": 0.2,
+    "final_test_loss": 2.023088981628418,
+    "trainable_params": 1294,
+    "training_time_seconds": 528.2090798999998,
+    "device": "cuda"
+  }
+}

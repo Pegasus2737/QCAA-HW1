@@ -1,0 +1,10 @@
+{
+  "qnn": {
+    "best_test_acc": 0.109375,
+    "final_test_acc": 0.109375,
+    "final_test_loss": 2.3159220218658447,
+    "trainable_params": 12554,
+    "training_time_seconds": 14.670684148004511,
+    "device": "cpu"
+  }
+}
